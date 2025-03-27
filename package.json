@@ -1,5 +1,5 @@
 {
-	"name": "simple-form-operation",
+	"name": "directus-operation-simple-form",
 	"description": "Convert JSON to form data and submit",
 	"icon": "extension",
 	"license": "MIT",
